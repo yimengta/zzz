@@ -1,0 +1,316 @@
+[ 2016-07-30T16:39:15+08:00 ] 127.0.0.1 /home/login/login
+ERR: 无法加载控制器:Login
+
+[ 2016-07-30T16:41:10+08:00 ] 127.0.0.1 /home/index/detail
+ERR: 非法操作:detail
+
+[ 2016-07-30T16:54:04+08:00 ] 127.0.0.1 /home/goods/goodslsi
+ERR: 非法操作:goodslsi
+
+[ 2016-07-30T16:58:55+08:00 ] 127.0.0.1 /home/goods/CSS_URLgoods.css
+ERR: 非法操作:CSS_URLgoods.css
+
+[ 2016-07-30T16:58:56+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T16:58:57+08:00 ] 127.0.0.1 /home/goods/CSS_URLjqzoom.css
+ERR: 非法操作:CSS_URLjqzoom.css
+
+[ 2016-07-30T16:58:57+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T16:58:57+08:00 ] 127.0.0.1 /home/goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T16:58:57+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:00:10+08:00 ] 127.0.0.1 /home/goods/CSS_URLgoods.css
+ERR: 非法操作:CSS_URLgoods.css
+
+[ 2016-07-30T17:00:11+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T17:00:11+08:00 ] 127.0.0.1 /home/goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:00:11+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:00:11+08:00 ] 127.0.0.1 /home/goods/CSS_URLjqzoom.css
+ERR: 非法操作:CSS_URLjqzoom.css
+
+[ 2016-07-30T17:00:11+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:01:59+08:00 ] 127.0.0.1 /home/goods/CSS_URLgoods.css
+ERR: 非法操作:CSS_URLgoods.css
+
+[ 2016-07-30T17:01:59+08:00 ] 127.0.0.1 /home/goods/CSS_URLjqzoom.css
+ERR: 非法操作:CSS_URLjqzoom.css
+
+[ 2016-07-30T17:02:00+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T17:02:00+08:00 ] 127.0.0.1 /home/goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:02:00+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:02:00+08:00 ] 127.0.0.1 /home/goods/CSS_URLgoods.css
+ERR: 非法操作:CSS_URLgoods.css
+
+[ 2016-07-30T17:02:00+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:02:46+08:00 ] 127.0.0.1 /home/goods/CSS_URLjqzoom.css
+ERR: 非法操作:CSS_URLjqzoom.css
+
+[ 2016-07-30T17:02:47+08:00 ] 127.0.0.1 /home/goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:02:47+08:00 ] 127.0.0.1 /home/goods/CSS_URLgoods.css
+ERR: 非法操作:CSS_URLgoods.css
+
+[ 2016-07-30T17:02:47+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:02:47+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/CSS_URLbase.css
+ERR: 非法操作:CSS_URLbase.css
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/CSS_URLgoods.css
+ERR: 非法操作:CSS_URLgoods.css
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/CSS_URLjqzoom.css
+ERR: 非法操作:CSS_URLjqzoom.css
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/JS_URLjquery-1.8.3.min.js
+ERR: 非法操作:JS_URLjquery-1.8.3.min.js
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/JS_URLheader.js
+ERR: 非法操作:JS_URLheader.js
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/JS_URLindex.js
+ERR: 非法操作:JS_URLindex.js
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:04:00+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/CSS_URLglobal.css
+ERR: 非法操作:CSS_URLglobal.css
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/CSS_URLheader.css
+ERR: 非法操作:CSS_URLheader.css
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/CSS_URLindex.css
+ERR: 非法操作:CSS_URLindex.css
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/CSS_URLbottomnav.css
+ERR: 非法操作:CSS_URLbottomnav.css
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/CSS_URLfooter.css
+ERR: 非法操作:CSS_URLfooter.css
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/JS_URLheader.js
+ERR: 非法操作:JS_URLheader.js
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/JS_URLindex.js
+ERR: 非法操作:JS_URLindex.js
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/CSS_URLjqzoom.css
+ERR: 非法操作:CSS_URLjqzoom.css
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/CSS_URLgoods.css
+ERR: 非法操作:CSS_URLgoods.css
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T17:04:01+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:04:30+08:00 ] 127.0.0.1 /home/index/CSS_URLbase.css
+ERR: 非法操作:CSS_URLbase.css
+
+[ 2016-07-30T17:04:30+08:00 ] 127.0.0.1 /home/index/JS_URLjquery-1.8.3.min.js
+ERR: 非法操作:JS_URLjquery-1.8.3.min.js
+
+[ 2016-07-30T17:04:30+08:00 ] 127.0.0.1 /home/index/JS_URLheader.js
+ERR: 非法操作:JS_URLheader.js
+
+[ 2016-07-30T17:04:31+08:00 ] 127.0.0.1 /home/index/JS_URLindex.js
+ERR: 非法操作:JS_URLindex.js
+
+[ 2016-07-30T17:04:31+08:00 ] 127.0.0.1 /home/index/CSS_URLglobal.css
+ERR: 非法操作:CSS_URLglobal.css
+
+[ 2016-07-30T17:04:31+08:00 ] 127.0.0.1 /home/index/CSS_URLheader.css
+ERR: 非法操作:CSS_URLheader.css
+
+[ 2016-07-30T17:04:31+08:00 ] 127.0.0.1 /home/index/CSS_URLindex.css
+ERR: 非法操作:CSS_URLindex.css
+
+[ 2016-07-30T17:04:31+08:00 ] 127.0.0.1 /home/index/CSS_URLbottomnav.css
+ERR: 非法操作:CSS_URLbottomnav.css
+
+[ 2016-07-30T17:04:32+08:00 ] 127.0.0.1 /home/index/CSS_URLfooter.css
+ERR: 非法操作:CSS_URLfooter.css
+
+[ 2016-07-30T17:04:32+08:00 ] 127.0.0.1 /home/index/JS_URLheader.js
+ERR: 非法操作:JS_URLheader.js
+
+[ 2016-07-30T17:04:32+08:00 ] 127.0.0.1 /home/index/JS_URLindex.js
+ERR: 非法操作:JS_URLindex.js
+
+[ 2016-07-30T17:13:46+08:00 ] 127.0.0.1 /home/index/JS_URLjquery-1.8.3.min.js
+ERR: 非法操作:JS_URLjquery-1.8.3.min.js
+
+[ 2016-07-30T17:13:47+08:00 ] 127.0.0.1 /home/index/JS_URLheader.js
+ERR: 非法操作:JS_URLheader.js
+
+[ 2016-07-30T17:13:48+08:00 ] 127.0.0.1 /home/index/JS_URLindex.js
+ERR: 非法操作:JS_URLindex.js
+
+[ 2016-07-30T17:14:27+08:00 ] 127.0.0.1 /home/index/JS_URLjquery-1.8.3.min.js
+ERR: 非法操作:JS_URLjquery-1.8.3.min.js
+
+[ 2016-07-30T17:14:28+08:00 ] 127.0.0.1 /home/index/JS_URLheader.js
+ERR: 非法操作:JS_URLheader.js
+
+[ 2016-07-30T17:14:28+08:00 ] 127.0.0.1 /home/index/JS_URLindex.js
+ERR: 非法操作:JS_URLindex.js
+
+[ 2016-07-30T17:15:49+08:00 ] 127.0.0.1 /home/Goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:15:49+08:00 ] 127.0.0.1 /home/Goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:15:50+08:00 ] 127.0.0.1 /home/Goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:17:10+08:00 ] 127.0.0.1 /home/Goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:17:10+08:00 ] 127.0.0.1 /home/Goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:17:11+08:00 ] 127.0.0.1 /home/Goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:18:42+08:00 ] 127.0.0.1 /home/user/register
+ERR: 非法操作:register
+
+[ 2016-07-30T17:20:29+08:00 ] 127.0.0.1 /home/goods/CSS_URLlist.css
+ERR: 非法操作:CSS_URLlist.css
+
+[ 2016-07-30T17:20:30+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T17:20:30+08:00 ] 127.0.0.1 /home/goods/JS_URLlist.js
+ERR: 非法操作:JS_URLlist.js
+
+[ 2016-07-30T17:20:58+08:00 ] 127.0.0.1 /home/goods/CSS_URLlist.css
+ERR: 非法操作:CSS_URLlist.css
+
+[ 2016-07-30T17:20:59+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T17:20:59+08:00 ] 127.0.0.1 /home/goods/CSS_URLlist.css
+ERR: 非法操作:CSS_URLlist.css
+
+[ 2016-07-30T17:20:59+08:00 ] 127.0.0.1 /home/goods/JS_URLlist.js
+ERR: 非法操作:JS_URLlist.js
+
+[ 2016-07-30T17:21:06+08:00 ] 127.0.0.1 /home/goods/CSS_URLlist.css
+ERR: 非法操作:CSS_URLlist.css
+
+[ 2016-07-30T17:21:06+08:00 ] 127.0.0.1 /home/goods/JS_URLlist.js
+ERR: 非法操作:JS_URLlist.js
+
+[ 2016-07-30T17:21:06+08:00 ] 127.0.0.1 /home/goods/JS_URLlist.js
+ERR: 非法操作:JS_URLlist.js
+
+[ 2016-07-30T17:21:07+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T17:21:48+08:00 ] 127.0.0.1 /home/goods/JS_URLgoods.js
+ERR: 非法操作:JS_URLgoods.js
+
+[ 2016-07-30T17:21:49+08:00 ] 127.0.0.1 /home/goods/JS_URLjqzoom-core.js
+ERR: 非法操作:JS_URLjqzoom-core.js
+
+[ 2016-07-30T17:22:14+08:00 ] 127.0.0.1 /home/goods/CSS_URLlist.css
+ERR: 非法操作:CSS_URLlist.css
+
+[ 2016-07-30T17:22:15+08:00 ] 127.0.0.1 /home/goods/CSS_URLcommon.css
+ERR: 非法操作:CSS_URLcommon.css
+
+[ 2016-07-30T17:22:15+08:00 ] 127.0.0.1 /home/goods/JS_URLlist.js
+ERR: 非法操作:JS_URLlist.js
+
+[ 2016-07-30T17:27:43+08:00 ] 127.0.0.1 /home/user/register
+ERR: 非法操作:register
+
+[ 2016-07-30T17:33:18+08:00 ] 127.0.0.1 /home/goods/goodslsit
+ERR: 非法操作:goodslsit
+
+[ 2016-07-30T17:33:23+08:00 ] 127.0.0.1 /home/goods/style/base.css
+ERR: 非法操作:style
+
+[ 2016-07-30T17:33:23+08:00 ] 127.0.0.1 /home/goods/style/footer.css
+ERR: 非法操作:style
+
+[ 2016-07-30T17:33:23+08:00 ] 127.0.0.1 /home/goods/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2016-07-30T17:33:23+08:00 ] 127.0.0.1 /home/goods/style/base.css
+ERR: 非法操作:style
+
+[ 2016-07-30T17:33:23+08:00 ] 127.0.0.1 /home/goods/js/header.js
+ERR: 非法操作:js
+
+[ 2016-07-30T17:33:23+08:00 ] 127.0.0.1 /home/goods/js/list.js
+ERR: 非法操作:js
+
+[ 2016-07-30T17:33:24+08:00 ] 127.0.0.1 /home/goods/style/global.css
+ERR: 非法操作:style
+
+[ 2016-07-30T17:33:24+08:00 ] 127.0.0.1 /home/goods/style/header.css
+ERR: 非法操作:style
+
+[ 2016-07-30T17:33:24+08:00 ] 127.0.0.1 /home/goods/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2016-07-30T17:33:24+08:00 ] 127.0.0.1 /home/goods/style/list.css
+ERR: 非法操作:style
+
+[ 2016-07-30T17:33:24+08:00 ] 127.0.0.1 /home/goods/style/common.css
+ERR: 非法操作:style
+
+[ 2016-07-30T17:33:24+08:00 ] 127.0.0.1 /home/goods/js/header.js
+ERR: 非法操作:js
+
+[ 2016-07-30T17:33:24+08:00 ] 127.0.0.1 /home/goods/js/list.js
+ERR: 非法操作:js
+
+[ 2016-07-30T18:56:13+08:00 ] 127.0.0.1 /home/user/register
+ERR: 非法操作:register
+
+[ 2016-07-30T18:57:23+08:00 ] 127.0.0.1 /home/user/regist
+ERR: 1364:Field 'user_name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_user` (`user_email`) VALUES ('876516978@qq.com')
+

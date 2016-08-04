@@ -1,0 +1,69 @@
+[ 2016-05-26T10:33:06+08:00 ] 127.0.0.1 /index.php/Admin/login/
+ERR: 无法加载控制器:Login
+
+[ 2016-05-26T11:54:09+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/common.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:54:09+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/jquery.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:54:09+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/WdatePicker.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:54:09+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/base.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:54:09+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/WdatePicker.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:54:09+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/info-mgt.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/jquery.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/info-reg.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/common.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/WdatePicker.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/base.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:17+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/base.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:17+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/jquery.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:17+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/info-reg.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:17+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/common.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:56:17+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/WdatePicker.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:57:18+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/base.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:57:18+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/jquery.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:57:18+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/css/info-reg.css
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:57:18+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/WdatePicker.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T11:57:18+08:00 ] 127.0.0.1 /index.php/Admin/user/__ADMIN__/js/common.js
+ERR: 非法操作:__ADMIN__
+
+[ 2016-05-26T15:00:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/login.html
+ERR: 非法操作:login
+

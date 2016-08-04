@@ -1,0 +1,42 @@
+[ 2016-06-15T10:24:48+08:00 ] 127.0.0.1 /index.php/Index/index.html%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+ERR: 非法操作:index.html}
+
+[ 2016-06-15T10:24:51+08:00 ] 127.0.0.1 /index.php/Index/index.html%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+ERR: 非法操作:index.html}
+
+[ 2016-06-15T10:24:51+08:00 ] 127.0.0.1 /index.php/Index/index.html%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001604s ]
+ERR: 非法操作:index.html}
+
+[ 2016-06-15T10:24:54+08:00 ] 127.0.0.1 /index.php/Index/index.html%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001866s ]
+ERR: 非法操作:index.html}
+
+[ 2016-06-15T10:24:54+08:00 ] 127.0.0.1 /index.php/Index/index.html%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001791s ]
+ERR: 非法操作:index.html}
+
+[ 2016-06-15T10:24:57+08:00 ] 127.0.0.1 /index.php/Index/index.html%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+ERR: 非法操作:index.html}
+
+[ 2016-06-15T10:24:57+08:00 ] 127.0.0.1 /index.php/Index/index.html%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+ERR: 非法操作:index.html}
+

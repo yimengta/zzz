@@ -1,0 +1,83 @@
+
+  <tr>
+    <form action="__SELF__" method="post" enctype="multipart/form-data">
+    <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#a8c7ce" id="general-tab-cont" >
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="right"><span class="STYLE19">属性名称：</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="left">
+        <input type="text" name="attr_name"/>
+        &nbsp;&nbsp;
+        <span  
+        <noempty name="{$errorinfo.attr_name}">style='color:red;' 
+        </noempty>
+        style="color:gray;">
+        *属性名称必须填写
+        </span> 
+        </div></td>
+      </tr>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="right"><span class="STYLE19">商品类型：</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="left">
+        <select name="type_id">
+            <option value="0">请选择</option>
+            <volist name="typeinfo" id='v'>
+            <option value="{$v.type_id}">{$v.type_name}</option>
+            </volist>
+        </select>
+        <span  
+        <noempty name="{$errorinfo.attr_name}">style='color:red;' 
+        </noempty>
+        style="color:gray;">
+        *属性名称必须填写
+        </span>
+        </div></td>
+      </tr>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="right"><span class="STYLE19">是否可选：</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="left">
+        <input type="radio" name="attr_sel" value="0" checked="checked" />唯一属性
+        <input type="radio" name="attr_sel" value="1"/>单选属性
+        </div></td>
+      </tr>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="right"><span class="STYLE19">录入方式：</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="left">
+        <input type="radio" name="attr_write" value="0" checked="checked"/>手工录入
+        <input type="radio" name="attr_write" value="1"/>列表选择
+      </tr>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="right"><span class="STYLE19">可选值：</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="left">
+        <textarea type="text" name="attr_opt_vals" rows="10" cols="50"></textarea>
+        </div></td>
+      </tr>
+    </table>
+  </tr>
+    <tr> 
+    <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#a8c7ce">
+    <tr height="20" bgcolor="#FFFFFF" class="STYLE6" ><input type="submit" value="添加">
+    </tr>
+    </table>
+    </form>
+    </td>
+  </tr>
+<!-- </table>
+</body>
+</html> -->
+<script type="text/javascript">
+  var ue = UE.getEditor('goods_introduce'
+        //工具栏上的所有的功能按钮和下拉框，可以在new编辑器的实例时选择自己需要的从新定义
+        , {toolbars: [[
+            'fullscreen', 'source', '|', 'undo', 'redo', '|',
+            'bold', 'italic', 'underline', 'fontborder', 'strikethrough', 'superscript', 'subscript', 'removeformat', 'formatmatch', 'autotypeset', 'blockquote', 'pasteplain', '|', 'forecolor', 'backcolor', 'insertorderedlist', 'insertunorderedlist', 'selectall', 'cleardoc', '|',
+            'rowspacingtop', 'rowspacingbottom', 'lineheight', '|',
+            'customstyle', 'paragraph', 'fontfamily', 'fontsize', '|',
+            'directionalityltr', 'directionalityrtl', 'indent', '|',
+            'justifyleft', 'justifycenter', 'justifyright', 'justifyjustify', '|', 'touppercase', 'tolowercase', '|',
+            'link', 'unlink', 'anchor', '|', 'imagenone', 'imageleft', 'imageright', 'imagecenter', '|',
+            'simpleupload', 'insertimage', 'emotion', 'scrawl', 'insertvideo', 'music', 'attachment', 'map', 'gmap', 'insertframe', 'insertcode', 'webapp', 'pagebreak', 'template', 'background', '|',
+            'horizontal', 'date', 'time', 'spechars', 'snapscreen', 'wordimage', '|',
+            'inserttable', 'deletetable', 'insertparagraphbeforetable', 'insertrow', 'deleterow', 'insertcol', 'deletecol', 'mergecells', 'mergeright', 'mergedown', 'splittocells', 'splittorows', 'splittocols', 'charts', '|',
+            'print', 'preview', 'searchreplace', 'help', 'drafts'
+        ]]});
+</script>

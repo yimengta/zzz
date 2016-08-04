@@ -1,0 +1,59 @@
+  <tr>
+    <td>
+    <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#a8c7ce">
+      <tr>
+        <td width="4%" height="20" bgcolor="d3eaef" class="STYLE10">
+        <div align="center">
+        </div></td>
+        <td width="5%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">序号</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">商品名称</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">商品价格</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">商品重量</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">商品图片</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">商品数量</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">商品简介</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">基本操作</span></div></td>
+      </tr>
+      <volist name='info' id='v'>
+      <tr>
+        <td width="4%" height="20" bgcolor="d3eaef" class="STYLE10"><div align="center">
+          <input type="checkbox" name="checkbox" id="checkbox" />
+        </div></td>
+        <td width="5%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">{$v.goods_id}</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">{$v.goods_name}</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">{$v.goods_shop_price}</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">{$v.goods_weight}</span></div></td>
+        <td width="15%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">{$v.goods_logo}</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">{$v.goods_number}</span></div></td>
+        <td width="14%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">{$v.goods_introduce}</span></div></td>
+        <td width="14%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center">
+        <a href="{:U('upd',array('goods_id'=>$v['goods_id']))}"><span class="STYLE10">编辑|</span></a>
+        <a href=""><span class="STYLE10">删除|</span></a><a href=""><span class="STYLE10">查看</span></a></div></td>
+      </tr>
+       </volist>
+    </table>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td height="30"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="33%"><div align="left"><span class="STYLE22">&nbsp;&nbsp;&nbsp;&nbsp;共有<strong> 243</strong> 条记录，当前第<strong> 1</strong> 页，共 <strong>10</strong> 页</span></div></td>
+        <td width="67%"><table width="312" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="49"><div align="center"><img src="__PUBLIC__/Admin/images/main_54.gif" width="40" height="15" /></div></td>
+            <td width="49"><div align="center"><img src="__PUBLIC__/Admin/images/main_56.gif" width="45" height="15" /></div></td>
+            <td width="49"><div align="center"><img src="__PUBLIC__/Admin/images/main_58.gif" width="45" height="15" /></div></td>
+            <td width="49"><div align="center"><img src="__PUBLIC__/Admin/images/main_60.gif" width="40" height="15" /></div></td>
+            <td width="37" class="STYLE22"><div align="center">转到</div></td>
+            <td width="22"><div align="center">
+              <input type="text" name="textfield" id="textfield"  style="width:20px; height:12px; font-size:12px; border:solid 1px #7aaebd;"/>
+            </div></td>
+            <td width="22" class="STYLE22"><div align="center">页</div></td>
+            <td width="35"><img src="__PUBLIC__/Admin/images/main_62.gif" width="26" height="15" /></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+

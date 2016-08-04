@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	输出server中的path信息：{$Think.<server class="path"></server>}
+	当前的时间是：{$time|date='Y-m-d H:i:s',###}
+	{//转为大写，并且截取前五个字符串}
+	结果：{$str|strtoupper|substr=0,5}
+</body>
+</html>

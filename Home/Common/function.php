@@ -1,0 +1,6 @@
+<?php 
+function gbk2utf8()
+{
+	echo 'gbk2utf8';
+}
+ ?>

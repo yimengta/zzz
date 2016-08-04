@@ -1,0 +1,354 @@
+[ 2016-06-28T08:37:01+08:00 ] 127.0.0.1 /Amin/Index/index
+ERR: 无法加载控制器:Amin
+
+[ 2016-06-28T08:42:03+08:00 ] 127.0.0.1 /index.php/Index/Articles.php
+ERR: 非法操作:Articles.php
+
+[ 2016-06-28T08:42:44+08:00 ] 127.0.0.1 /index.php/Index/AddKind.php
+ERR: 非法操作:AddKind.php
+
+[ 2016-06-28T08:42:46+08:00 ] 127.0.0.1 /index.php/Index/Kinds.php
+ERR: 非法操作:Kinds.php
+
+[ 2016-06-28T08:42:49+08:00 ] 127.0.0.1 /index.php/Index/Articles.php
+ERR: 非法操作:Articles.php
+
+[ 2016-06-28T08:43:46+08:00 ] 127.0.0.1 /index.php/Index/Articles.php
+ERR: 非法操作:Articles.php
+
+[ 2016-06-28T08:44:59+08:00 ] 127.0.0.1 /index.php/Index/Articles.php
+ERR: 非法操作:Articles.php
+
+[ 2016-06-28T08:46:34+08:00 ] 127.0.0.1 /index.php/Index/Articles.php
+ERR: 非法操作:Articles.php
+
+[ 2016-06-28T08:46:55+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T08:46:55+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T08:47:25+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T08:48:58+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T08:56:14+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T08:56:23+08:00 ] 127.0.0.1 /index.php/Index/Articles.php
+ERR: 非法操作:Articles.php
+
+[ 2016-06-28T08:56:25+08:00 ] 127.0.0.1 /index.php/Index/Articles.php
+ERR: 非法操作:Articles.php
+
+[ 2016-06-28T09:27:27+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T09:28:17+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:33:20+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:33:20+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:33:20+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:33:31+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467081211','1467081211')
+
+[ 2016-06-28T10:33:43+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:33:43+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:33:46+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467081226','1467081226')
+
+[ 2016-06-28T10:35:36+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:35:36+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:49:59+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T10:49:59+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T12:27:05+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T12:27:05+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T12:27:06+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T12:27:25+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467088045','1467088045')
+
+[ 2016-06-28T12:36:46+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T12:36:46+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T12:36:46+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T12:43:06+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T12:43:06+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:06:16+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:06:16+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:08:16+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:08:16+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:08:58+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:08:59+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:09:00+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467090540','1467090540')
+
+[ 2016-06-28T13:48:10+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:48:10+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:48:46+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467092926','1467092926')
+
+[ 2016-06-28T13:49:36+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T13:49:36+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:51:33+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:51:33+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:51:39+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:51:39+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:52:25+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:52:25+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:52:37+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:52:37+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:52:39+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467096759','1467096759')
+
+[ 2016-06-28T14:52:43+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:52:43+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:53:12+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1062:Duplicate entry '' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','111','111','111','','1467096790','1467096790')
+
+[ 2016-06-28T14:54:21+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:54:21+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:54:23+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467096863','1467096863')
+
+[ 2016-06-28T14:54:31+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:54:31+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:55:05+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1264:Out of range value for column 'goods_number' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','8000','8000','8000','','1467096905','1467096905')
+
+[ 2016-06-28T14:55:55+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:55:55+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:57:47+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1264:Out of range value for column 'goods_number' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','1000','1000','1000','','1467097067','1467097067')
+
+[ 2016-06-28T14:59:12+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:59:12+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:59:14+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467097154','1467097154')
+
+[ 2016-06-28T14:59:28+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:59:28+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T14:59:53+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1062:Duplicate entry '' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','111','11','111','','1467097193','1467097193')
+
+[ 2016-06-28T15:16:26+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1062:Duplicate entry '' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','111','11','111','','1467098186','1467098186')
+
+[ 2016-06-28T15:16:48+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T15:16:49+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T15:17:23+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1062:Duplicate entry '' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','10','1','1','','1467098243','1467098243')
+
+[ 2016-06-28T15:59:35+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T15:59:35+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:00:46+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:00:46+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:07:17+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:07:18+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:07:59+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:07:59+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:30:05+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:30:05+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:30:31+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:30:32+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:30:57+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1062:Duplicate entry '' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','111','111','111','','1467102657','1467102657')
+
+[ 2016-06-28T16:33:04+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:33:04+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:33:26+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1062:Duplicate entry '' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','222','222','222','','1467102806','1467102806')
+
+[ 2016-06-28T16:35:25+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:35:25+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:36:45+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1062:Duplicate entry '' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','222','222','222','','1467103005','1467103005')
+
+[ 2016-06-28T16:39:30+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:39:30+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:39:33+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1467103173','1467103173')
+
+[ 2016-06-28T16:39:46+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:39:46+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:40:02+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1062:Duplicate entry '' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','111','111','111','','1467103202','1467103202')
+
+[ 2016-06-28T16:41:03+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:41:03+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:44:40+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('壁纸','','0','0','','1467103480','1467103480')
+
+[ 2016-06-28T16:45:00+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:45:00+08:00 ] 127.0.0.1 /Common/Plugin/ueditor/ueditor/lang/zh-cn/zh-cn.js
+ERR: 非法操作:Plugin
+
+[ 2016-06-28T16:45:40+08:00 ] 127.0.0.1 /index.php/Goods/tianjia.html
+ERR: 1264:Out of range value for column 'goods_number' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('壁纸','5885','552','277','','1467103540','1467103540')
+

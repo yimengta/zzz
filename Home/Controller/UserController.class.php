@@ -1,13 +1,11 @@
 <?php 
 // 声明命名空间
 namespace Home\Controller;
-
-// 引入父类元素
-use Think\Controller;
+use Tool\HomeController;
 // 引入验证码类元素
 use Think\Verify;
 
-class UserController extends Controller
+class UserController extends HomeController
 {
 	public function login(){
         $this -> display();
